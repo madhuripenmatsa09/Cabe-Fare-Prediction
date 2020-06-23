@@ -1,0 +1,22 @@
+I selected the competition "New York City Taxi Fare Prediction" in kaggle. 
+	Here, we need to find out the fare amount between the pick up and drop off locations. We have data set containing features incuding fares, passenger count per taxi, locations , time , etc.,
+LINK : https://www.kaggle.com/c/new-york-city-taxi-fare-prediction/data
+  Using improved root mean squared error accuracy we hope we can find the best fares. Mam , suggest us about this challenge.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
